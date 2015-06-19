@@ -89,3 +89,4 @@ in a `config/initializers/production.rb` or similar file:
 `http://localhost:3000` with your new `test` user:
 
           lobsters$ rails server
+
